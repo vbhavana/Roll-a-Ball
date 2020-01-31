@@ -42,7 +42,7 @@ public class PlayerController : MonoBehaviour{
         countText.text = "Count: " + count.ToString();
         if(count >= 12)
         {
-            winText.text = "You Win!";
+            winText.text = "You Win Bhavana!";
         }
     }
 }
